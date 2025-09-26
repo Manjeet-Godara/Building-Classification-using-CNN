@@ -24,7 +24,7 @@ The project focused on applying **Convolutional Neural Networks (CNNs)** to auto
 ## 🛠️ Tools & Technologies
 - **Python** (for deep learning workflows)  
 - **TensorFlow / Keras** (for CNN implementation)  
-- **OpenCV & PIL** (for image preprocessing)  
+- **EfficientNet** (for image preprocessing)  
 - **Google Street View imagery** (as primary dataset source)  
 
 ---
